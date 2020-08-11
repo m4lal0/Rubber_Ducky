@@ -26,7 +26,7 @@ La sintaxis de este lenguaje es el siguiente:
 | `CAPSLOCK` | Es la tecla que permite escribir en mayúsculas o minúsculas |
 | `DELETE` | Simula la tecla suprimir |
 | `END` | Tecla que permite ir al final de algo (página web, documento, etc.) |
-| `ESC` / ESCAPE | Tecla de escape |
+| `ESC` / `ESCAPE` | Tecla de escape |
 | `HOME` | En español equivale a la tecla inicio |
 | `INSERT` | Simula la tecla inserta |
 | `NUMLOCK` | Tecla para bloquear o desbloquear los numerales en los teclados |
@@ -37,3 +37,11 @@ La sintaxis de este lenguaje es el siguiente:
 | `SPACE` | Tecla espacio |
 | `TAB` | Tecla de tabulación |
 | `REPEAT` | Repite la cantidad de veces que le indiquemos lo ya ejecutado |
+
+### Scripts
+
+Ejemplos de payloads que se pueden usar en la Rubber Ducky para los siguientes sistemas operativos:
+
+* [Windows](https://github.com/m4lal0/Rubber_Ducky/tree/master/Scripts/Windows "Windows")
+* [Linux](https://github.com/m4lal0/Rubber_Ducky/tree/master/Scripts/Linux "Linux")
+* [MacOS](https://github.com/m4lal0/Rubber_Ducky/tree/master/Scripts/MacOS "MacOS")
